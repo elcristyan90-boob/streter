@@ -193,16 +193,4 @@
 </html>
 ```
 
-Cómo usarlo:
-- Guarda el código en un archivo llamado `juego.html`
-- Abre ese archivo en tu navegador
-- Haz clic en “Iniciar juego”
-- Clickea el círculo que aparece para sumar puntos antes de que termine el tiempo
-
-Si quieres, puedo hacerte otro tipo de juego:
-- Snake
-- Pong
-- Adivina el número
-- Memoria
-- Tetris
-- Un juego más visual con emojis y sonidos
+ 
